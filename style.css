@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Kirang Haerang', cursive;
+    color: dodgerblue;
+}
+.menu{
+    list-style: none;
+    top: 5px;
+    right: 30px;
+    position: fixed;
+}
+img{
+    width: 20%;
+    margin-right: 100px;
+}
+.enviromnent_li{
+    
+    margin-top: 13px;
+}
+.enviromnent_li img{
+    border-radius: 25px;
+    height: 250px;
+}
+enviromnent_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+enviromnent_li p{
+    margin-top: 10px;
+}
+#img1{
+    margin-left: 500px;
+}
+#img2{
+    height: 200px;
+    width: 150px;
+}
